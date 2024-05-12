@@ -1,5 +1,4 @@
 # Script de Configuración
-
 Este script de shell automatiza la configuración inicial de tu entorno en Kali Linux.
 
 # Features
