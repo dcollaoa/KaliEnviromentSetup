@@ -13,7 +13,7 @@ Este script de shell automatiza la configuración inicial de tu entorno en Kali 
 ## Uso
 
 1. Clona el repositorio en tu máquina Kali Linux.
-2. Ejecuta el script `start.sh` con permisos de superusuario.
+2. Ejecuta el script `install.sh` con permisos de superusuario.
 
 ```bash
-sudo ./start.sh
+sudo ./install.sh
