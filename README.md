@@ -9,9 +9,10 @@ Este script de shell automatiza la configuración inicial de tu entorno en Kali 
 5. Configura el mapa de teclado en español para el usuario actual.
 6. Asigna permisos al usuario `kali` para archivo target en .config/bin/target
 7. Notifica cuando la instalación está completa.
+
    
 # Features
-VSCode Rclone tIMG Keyboard-ES
+VSCode Rclone tIMG Keyboard-ES Dirsearch BloodHound Powershell dotnet6.0 Java Neo4j
 
 ## Uso
 
