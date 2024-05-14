@@ -10,4 +10,3 @@ seclists ligolo-ng vmware-guest-tools rockyou VMware-fix
 ## Uso
 1. Clona el repositorio en tu máquina Kali Linux.
 2. Lee y ejecuta a tu gusto el script `install.sh` con permisos de superusuario.
-
